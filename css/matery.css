@@ -242,12 +242,12 @@ mark {
 
 .bg-color {
     /*background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);*/
-    background:#34495e;
+    background:#525f7f;
 
 }
 
 .text-color {
-    color: #0f9d58 !important;
+    color:#525f7f/*#0f9d58 */  !important;
 }
 
 .white-color {
@@ -259,7 +259,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background:#525f7f /*linear-gradient(to right, #4cbf30 0%, #0f9d58 100%)*/;
     opacity: 0.8;
 }
 
