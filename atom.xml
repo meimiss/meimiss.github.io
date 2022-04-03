@@ -6,7 +6,7 @@
   <link href="https://meimiss.github.io/atom.xml" rel="self"/>
   
   <link href="https://meimiss.github.io/"/>
-  <updated>2022-04-03T03:38:22.590Z</updated>
+  <updated>2022-04-03T03:40:55.716Z</updated>
   <id>https://meimiss.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://meimiss.github.io/2022/04/02/ubuntu-zhuan-window-de-xin-suan-shi/"/>
     <id>https://meimiss.github.io/2022/04/02/ubuntu-zhuan-window-de-xin-suan-shi/</id>
     <published>2022-04-02T14:07:25.000Z</published>
-    <updated>2022-04-03T03:38:22.590Z</updated>
+    <updated>2022-04-03T03:40:55.716Z</updated>
     
     
       
@@ -34,10 +34,12 @@
     
     
     
-    <category term="综合" scheme="https://meimiss.github.io/categories/%E7%BB%BC%E5%90%88/"/>
+    <category term="Windows" scheme="https://meimiss.github.io/categories/Windows/"/>
     
     
-    <category term="ubuntu" scheme="https://meimiss.github.io/tags/ubuntu/"/>
+    <category term="Ubuntu" scheme="https://meimiss.github.io/tags/Ubuntu/"/>
+    
+    <category term="Windows" scheme="https://meimiss.github.io/tags/Windows/"/>
     
   </entry>
   
